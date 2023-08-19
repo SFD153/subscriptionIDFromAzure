@@ -13,7 +13,6 @@ Welcome to the Getting List of Subscriptions from Azure in Python project! This 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 
 ## Getting Started
 
